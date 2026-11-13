@@ -1,0 +1,9 @@
+# Linhas de contagem do video nadir DJI_20260722094104_0178_D (1920x1080),
+# escolhidas com escolher_linhas.py no frame 8991. Valem tambem para o
+# videos/demo_nadir_30s.mp4, recortado do mesmo video sem mudar a resolucao.
+# A: (570, 142) -> (707, 163)
+# B: (701, 690) -> (767, 540)
+# C: (1002, 306) -> (1234, 341)
+# D: (1258, 120) -> (1493, 82)
+
+--linha A 570 142 707 163 --linha B 701 690 767 540 --linha C 1002 306 1234 341 --linha D 1258 120 1493 82

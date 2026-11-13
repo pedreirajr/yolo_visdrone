@@ -1,0 +1,27 @@
+# Arquivos grandes (distribuidos pela Release, nao pelo git)
+*.pt
+*.mp4
+*.MP4
+*.mov
+*.MOV
+pesos/
+videos/
+
+# Gerados pelo Ultralytics e pelos scripts
+datasets/
+runs/
+saidas/
+linhas_*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor e sistema
+.vscode/
+.idea/
+.claude/settings.local.json
+Thumbs.db
+.DS_Store
